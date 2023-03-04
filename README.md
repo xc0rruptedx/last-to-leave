@@ -1,2 +1,2 @@
-# last-to-leave
-Last tp lwsve scrupt/
+--{[Im bad with making scripts, note : update in script 06.03.2023!!!
+--}]
